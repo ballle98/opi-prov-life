@@ -12,6 +12,7 @@
 - please look at https://access.redhat.com/articles/6804281#install-assisted-installer-on-the-installer-node-using-podman-5
 - please look at https://github.com/jparrill/ztp-the-hard-way (RHEL)
 - please look at https://access.redhat.com/documentation/en-us/openshift_container_platform/4.9/html/scalability_and_performance/ztp-deploying-disconnected
+- [https://github.com/sonic-net/SONiC/blob/master/doc/ztp/ztp.md] (SONiC Zero Touch Provisioning)
 
 ## Re-Provisioning
 
