@@ -12,6 +12,8 @@
 - please look at https://access.redhat.com/articles/6804281#install-assisted-installer-on-the-installer-node-using-podman-5
 - please look at https://github.com/jparrill/ztp-the-hard-way (RHEL)
 - please look at https://access.redhat.com/documentation/en-us/openshift_container_platform/4.9/html/scalability_and_performance/ztp-deploying-disconnected
+- [Zero Touch Provisioning for OpenShift on YouTube](https://www.youtube.com/watch?v=owx1i4FoVt0)
+- [SONiC Zero Touch Provisioning](https://github.com/sonic-net/SONiC/blob/master/doc/ztp/ztp.md)
 
 ## Re-Provisioning
 
