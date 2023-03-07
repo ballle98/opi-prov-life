@@ -2,11 +2,19 @@
 
 Reference [BOOTSEQ.md](./BOOTSEQ.md)
 
+![DPU HW Components Full](architecture/DPU-HW-Components-Full.svg) 
+
+## Definitions
+
+| NIC BMC | optional BMC associated with DPU/IPU   |
+| Platform BMC | BMC associated with the server not part of the DPU/IPU   |
+
+
 ## In-band PCIe
 
 - what problems we have today with PCIe, timeouts, errors, retries,...
 
-## Out-band via platform BMC
+## Out-band via platform BMC (Server BMC)
 
 ### PLDM State sensors
 
